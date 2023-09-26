@@ -7,6 +7,5 @@ You can find my work here: **https://www.artstation.com/michellej**
 
 - 🌱 I’m currently learning JAVA to expand my skills!!
 
-- 📫 How to reach me: michelle.janer@gmx.de
 
 
