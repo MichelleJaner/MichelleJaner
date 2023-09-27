@@ -6,4 +6,4 @@ I have dedicated my skills and creativity to the fascinating world of videogames
 
 You can find my work here: **https://www.artstation.com/michellej**
 
-- 🌱 I’m currently learning JAVA to expand my skills!!
+- 🌙 I’m currently learning JAVA to expand my skills!!
