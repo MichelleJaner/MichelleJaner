@@ -1,6 +1,7 @@
 ### Hello! 
 
-![PokemonGif](https://github.com/MichelleJaner/MichelleJaner/assets/56514863/e3bd3988-ec59-4e17-a92d-e0b811fdeed3)
+<img src="https://github.com/MichelleJaner/MichelleJaner/assets/56514863/573b1822-3d60-4e24-aa10-4f24ddef951e
+" alt="PokemonGif" width="200"/>
 
 
 My name is Michelle Janer and I am a 3D artist with a strong passion for bringing characters, creatures and props to life.
