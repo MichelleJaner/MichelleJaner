@@ -1,6 +1,6 @@
 ### Hello! 
 
-![PokemonGif](https://github.com/MichelleJaner/MichelleJaner/assets/56514863/812fe4ea-5577-4e5d-8c05-edf799403517=100x100)
+![PokemonGif](https://github.com/MichelleJaner/MichelleJaner/assets/56514863/812fe4ea-5577-4e5d-8c05-edf799403517=10%x10%)
 
 My name is Michelle Janer and I am a 3D artist with a strong passion for bringing characters, creatures and props to life.
 I have dedicated my skills and creativity to the fascinating world of videogames.
